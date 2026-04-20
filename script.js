@@ -8,7 +8,7 @@ const products = [
     category: "duajn",
     price: 18500,
     unit: "طن",
-    image: "https://images.unsplash.com/photo-1625246333197-4c4f4e2d4d5e",
+    image: "https://m.media-amazon.com/images/I/71gj7LCFtCL._AC_UF1000,1000_QL80_.jpg",
     description: "علف بادئ للدواجن البرويلر - جودة ممتازة"
   },
   {
@@ -17,7 +17,7 @@ const products = [
     category: "duajn",
     price: 17200,
     unit: "طن",
-    image: "https://images.unsplash.com/photo-1625246333197-4c4f4e2d4d5e",
+    image: "https://alzira3a.com/wp-content/uploads/2021/12/%D8%A7%D8%B9%D9%84%D8%A7%D9%81-%D8%AF%D9%88%D8%A7%D8%AC%D9%86.jpg",
     description: "علف نامي للدواجن البرويلر"
   },
   {
@@ -26,7 +26,7 @@ const products = [
     category: "cows",
     price: 14500,
     unit: "طن",
-    image: "https://images.unsplash.com/photo-1570042591577-0c8f9c4e3d2a",
+    image: "https://almaraai-alhadeetha.com/wp-content/uploads/2022/12/Dairy-Feed-16-Pellet-50-KG-1.jpg",
     description: "علف مركز للأبقار المحلبات"
   },
   {
@@ -35,7 +35,7 @@ const products = [
     category: "sheep",
     price: 12800,
     unit: "طن",
-    image: "https://images.unsplash.com/photo-1585336262215-15b7c2d7c5e3",
+    image: "https://cdn.wikifarmer.com/images/detailed/2017/07/Feeding-Sheep-Ar.jpg",
     description: "علف كامل للأغنام والماعز"
   },
   {
@@ -44,7 +44,7 @@ const products = [
     category: "fish",
     price: 23500,
     unit: "طن",
-    image: "https://images.unsplash.com/photo-1544551763-46a013bb70d5",
+    image: "https://gate.ahram.org.eg/Media/News/2022/4/28/19_2022-637867438813546731-354.jpg",
     description: "علف أسماك عالي البروتين"
   },
   {
@@ -53,7 +53,7 @@ const products = [
     category: "duajn",
     price: 16800,
     unit: "طن",
-    image: "https://images.unsplash.com/photo-1625246333197-4c4f4e2d4d5e",
+    image: "https://media.egyin.com/2024/8/large/1753163556463420240822092808288.jpg",
     description: "علف خاص للدجاج البياض"
   }
 ];
